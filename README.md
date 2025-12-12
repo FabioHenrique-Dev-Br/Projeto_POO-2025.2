@@ -40,9 +40,3 @@ livros (1) → (N) emprestimos
 
 
 ![Diagrama do Banco](diagrama.png)
-
-
-
-
-
-DO)
