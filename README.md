@@ -38,5 +38,7 @@ autores (1) → (N) livros
 usuarios (1) → (N) emprestimos
 livros (1) → (N) emprestimos
 
-
+Autor : Fábio Henrique
 ![Diagrama do Banco](diagrama.png)
+
+Au
